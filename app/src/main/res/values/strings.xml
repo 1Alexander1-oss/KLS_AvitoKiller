@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">KLS_AvitoKiller</string>
+    <string name="product_name">Наименование</string>
+    <string name="product_price">Цена</string>
+    <string name="product_salesman_address">Адрес</string>
+    <string name="insert_description">Введите описание</string>
+    <string name="publish">Опубликовать</string>
 </resources>
